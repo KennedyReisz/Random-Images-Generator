@@ -1,5 +1,5 @@
 <div>
-<h1 align=center>Random Animals Image Generator <img width="60px" align=center src="https://cdn3.emoji.gg/emojis/5759_Waffle.png" /></h1>
+<h1 align=center>Random Animals Image Generator <img width="60px" align=center src="https://cdn3.emoji.gg/emojis/1516-foxwave.png" /></h1>
 <h3 align=center>Technologies <img align=center width=50 src="https://cdn3.emoji.gg/emojis/8590-worker-cat.png"/></h3>
 </div>
 
