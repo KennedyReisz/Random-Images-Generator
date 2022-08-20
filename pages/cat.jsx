@@ -19,6 +19,7 @@ export default function catPage() {
 
   return (
     <div className={styles.container}>
+      <title>Cat Page</title>
       <h1 className={styles.title}>Cat Images Generator!</h1>
 
       <div className={styles.buttonsArea}>

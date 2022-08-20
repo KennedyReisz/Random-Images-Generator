@@ -19,6 +19,7 @@ export default function foxPage() {
 
   return (
     <div className={styles.container}>
+      <title>Fox Page</title>
       <h1 className={styles.title}>Fox Images Generator!</h1>
 
       <div className={styles.buttonsArea}>

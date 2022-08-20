@@ -18,6 +18,7 @@ export default function catPage() {
 
   return (
     <div className={styles.container}>
+      <title>Duck Page</title>
       <h1 className={styles.title}>Duck Images Generator!</h1>
 
       <div className={styles.buttonsArea}>
