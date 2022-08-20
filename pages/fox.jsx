@@ -6,7 +6,7 @@ import Image from "next/image";
 import { useState } from "react";
 
 // Imported Asset's
-import styles from "../styles/Cat.module.css";
+import styles from "../styles/Fox.module.css";
 
 export default function foxPage() {
   const [fox, setFox] = useState([]);

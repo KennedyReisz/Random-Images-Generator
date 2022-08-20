@@ -5,7 +5,7 @@
 import { useState } from "react";
 
 // Imported Asset's
-import styles from "../styles/Cat.module.css";
+import styles from "../styles/Duck.module.css";
 
 export default function catPage() {
   const [duck, setDuck] = useState([]);
