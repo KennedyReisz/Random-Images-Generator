@@ -2,6 +2,7 @@
 /* eslint-disable @next/next/no-img-element */
 /* eslint-disable jsx-a11y/alt-text */
 /* eslint-disable react-hooks/rules-of-hooks */
+import Link from "next/link";
 import { useState } from "react";
 
 // Imported Asset's
@@ -26,7 +27,9 @@ export default function catPage() {
           Generate!
         </button>
 
-        <a className={styles.returnButton} href="/">Return</a>
+        <Link href={`/`}>
+          <a className={styles.returnButton}>Return</a>
+        </Link>
       </div>
 
       <div className={styles.imageGeneratedArea}>
