@@ -10,7 +10,7 @@
 <br />
 <br />
 
-<p align=center>Home - <a href="https://random-images-generator-ju47m0jw2-kennedyreis.vercel.app/cat">Preview</a></p>
+<p align=center>Home - <a href="https://random-images-generator-ju47m0jw2-kennedyreis.vercel.app/">Preview</a></p>
 <img src="preview/previewHome.png" />
 <p align=center>Cat Page</p>
 <img src="preview/previewCat.png" />
